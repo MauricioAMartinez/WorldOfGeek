@@ -8,7 +8,8 @@ eliminacion de cuentas
 validacion de existencia usuario o correo
 carrito compras
 vaciar carrito compras
+caracteristicas productos
 realizar compra carrito compras
 correos de //Registro//Modificacion//Eliminacion//compra
-caracteristicas productos
+
 
